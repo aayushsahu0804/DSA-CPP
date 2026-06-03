@@ -1,6 +1,8 @@
+//https://bit.ly/3y01Zdu
+// Leetcode: 136 https://leetcode.com/problems/single-number/
+
 #include<iostream>
 using namespace std;
-//https://bit.ly/3y01Zdu
 
 int findUnique(int *arr, int size)
 {

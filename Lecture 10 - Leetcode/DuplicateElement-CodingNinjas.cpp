@@ -1,4 +1,7 @@
 //https://bit.ly/3dm6bdZ
+// LeetCode: 287 https://leetcode.com/problems/find-the-duplicate-number/description/
+//Submitted
+
 #include<iostream>
 #include<vector>
 using namespace std;
