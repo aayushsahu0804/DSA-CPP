@@ -1,5 +1,8 @@
+// 1394. Find Lucky Integer in an Array
+
 #include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 
 int findLucky(vector<int>& arr) 
@@ -37,7 +40,7 @@ int findLucky(vector<int>& arr)
     }
 
     return ans;
-    }
+}
 
 int main()
 {
