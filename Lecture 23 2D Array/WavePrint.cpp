@@ -1,5 +1,4 @@
-// https://bit.ly/329Le3K
-
+// https://bit.ly/329Le3
 #include <iostream>
 #include <vector>
 using namespace std;
